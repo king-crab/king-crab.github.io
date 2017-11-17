@@ -1,0 +1,110 @@
+{
+    "squares": [
+        {"name":".com", "links": [
+            {"name": "Facebook",  "url": "https://www.facebook.com"},
+            {"name": "Gmail", "url": "https://www.gmail.ca"},
+            {"name": "Evernote",  "url": "https://evernote.com"},
+            {"name": "Pirate Bay", "url": "https://thepiratebay.org"},
+            {"name": "Triggr",  "url": "https://www.tumblr.com"},
+            {"name": "Twitter", "url": "https://www.twitter.com"},
+            {"name": "Amazon", "url": "https://www.amazon.ca"}			
+        ]},
+
+        {"name":".exe", "links": [
+            {"name": "Dota 2", "url": "https://www.reddit.com/r/dota2"},
+            {"name": "Darkest",    "url": "https://www.reddit.com/r/overwatch"},
+            {"name": "XCOM",    "url": "https://www.reddit.com/r/hearthstone"},
+            {"name": "Game Discussion", "url": "https://www.reddit.com/r/games"},
+			{"name": "Magic: the Gathering",  "url": "https://www.reddit.com/r/magictcg"},
+            {"name": "Dungeons & Dragons",    "url": "https://www.reddit.com/r/dnd"},
+            {"name": "Game Deals",    "url": "https://www.reddit.com/r/gamedeals"}					
+        ]},		
+
+        {"name":".mp4", "links": [
+            {"name": "Feedly", "url": "https://feedly.com/i/latest"},
+            {"name": "Videos",    "url": "https://www.reddit.com/r/videos"},
+            {"name": "Youtube Haiku",    "url": "https://www.reddit.com/r/youtubehaiku"},
+			{"name": "Twitch.tv",  "url": "https://www.twitch.tv"},
+            {"name": "Youtube", "url": "https://www.youtube.com"},
+            {"name": "Artisan Videos",    "url": "https://www.reddit.com/r/artisanvideos"},
+            {"name": "SoundCloud",    "url": "https://www.soundcloud.com"}			
+        ]},		
+		
+        {"name":".org", "links": [
+            {"name": "/wg/", "url": "http://www.4chan.org/wg/"},
+            {"name": "/ic/",  "url": "http://www.4chan.org/ic/"},
+            {"name": "/tg/",     "url": "http://www.4chan.org/tg/"},
+			{"name": "/g/",          "url": "http://www.4chan.org/g/"},
+            {"name": "/mu/",        "url": "http://www.4chan.org/mu/"},
+            {"name": "/vg/",      "url": "http://www.4chan.org/vg/"},
+            {"name": "/tv/",       "url": "http://www.4chan.org/trash/"}
+        ]},
+		
+        {"name":".html", "links": [
+            {"name": "Rainmeter", "url": "https://www.reddit.com/r/rainmeter"},
+			{"name": "Internet is Beautiful",  "url": "https://www.reddit.com/r/internetisbeautiful"},
+            {"name": "GitHub",    "url": "https://github.com"},
+            {"name": "SSavr",    "url": "https://www.ssavr.com"},
+            {"name": "Bit.ly", "url": "http://bit.ly"},
+            {"name": "Degraeve",    "url": "http://www.degraeve.com/color-palette"},
+            {"name": "Adobe Colour",    "url": "https://color.adobe.com/create/color-wheel/"}
+		]},
+		
+		{"name":".pdf", "links": [
+            {"name": "AskReddit", "url": "https://www.reddit.com/r/askreddit"},
+			{"name": "Data is Beautiful",  "url": "https://www.reddit.com/r/dataisbeautiful"},
+            {"name": "Tgchan",    "url": "http://www.tgchan.org/kusaba/quest/"},
+            {"name": "SCP Wiki",    "url": "http://www.scp-wiki.net/"},
+            {"name": "TIA", "url": "https://www.reddit.com/r/tumblrinaction"},
+            {"name": "KIA",    "url": "https://www.reddit.com/r/kotakuinaction"},
+            {"name": "PrivNote",    "url": "https://privnote.com/#"}
+		]},
+
+        {"name":"(-s)", "prefix":"-", "options": [
+            {"opt": "g", "url": "https://www.google.com/#q=",                         "space":"+"},
+            {"opt": "r", "url": "https://www.reddit.com/r/",                          "space":"+"},
+            {"opt": "a", "url": "http://www.wolframalpha.com/input/?i=",              "space":"+"},
+			{"opt": "4", "url": "http://4chansearch.com/#gsc.q=",                     "space":"+"},
+			{"opt": "t", "url": "https://translate.google.com/?q=",                 "space":"%20"},
+            {"opt": "p", "url": "https://thepiratebay.org/search/",                 "space":"%20"},
+            {"opt": "w", "url": "https://en.wikipedia.org/w/index.php?search=",       "space":"+"},
+            {"opt": "y", "url": "https://www.youtube.com/results?search_query=",      "space":"+"}
+        ]}
+    ],
+
+
+    "bool": {
+        "borders":              true,
+        "alwaysopen":           false,
+        "mascot":               false,
+        "allowVersionCheck":    true,
+        "privateMode":          false
+    },
+
+    "style": {
+        "heading_font":         "tewi",
+        "link_font":            "tewi",
+        "heading_font_size":    "16px",
+        "link_font_size":       "12px",
+        "background":           "#1D1E2A",
+        "foreground":           "#14151F",
+        "heading_color":        "#7e1f41",
+        "link_color":           "#aaaaaa",
+        "border_color":         "#7e1f41",
+        "border_width_normal":  "0",
+        "border_width_hovered": "3px 0",
+        "search_color":         "#7e1f41",
+        "search_bg_color":      "rgba(110,110,110,0.1)"
+    },
+
+    "ext": {
+        "images":[              "image1.png",
+                                "image2.png",
+                                "image3.png"],
+        "bottom":               "0",
+        "right":                "0",
+        "height":               "500px",
+        "width":                "400px",
+        "opacity":              ".2"
+    }
+}
