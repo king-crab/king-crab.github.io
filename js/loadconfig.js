@@ -5,11 +5,11 @@ function ConfigObject(items){
 }
 
 var boolItems = {
-    borders: "Borders",
-    alwaysopen: "Keep all squares open",
-    mascot: "Enable background image/mascot",
-    allow_version_check: "Allow checking for new versions",
-    use_json_file: "Use config.json instead of this menu"
+    borders: "borders",
+    alwaysopen: "squares open",
+    mascot: "add silly png",
+    allow_version_check: "version check",
+    use_json_file: "use config.json instead of menu"
 };
 var bool = new ConfigObject(boolItems);
 
@@ -65,10 +65,10 @@ function pipe(data, callback){
         initmenu.appendTab("Choose an Option:");
         initmenu.makeTabActive(0);
         var initbuttons = initmenu.split(
-                ["Use files.",
-                 "Use configuration menu."],
-                ["Use the config.json file located in the startpage's root directory.",
-                 "Use a GUI to easily configure the startpage's style. Has import/export function."]);
+                ["Local.",
+                 "Menu(dontclickthisone)."],
+                ["config.json of root directory.",
+                 "GUI, import/export ."]);
         initbuttons[0].addEventListener("click", function(){
             loadConfig(data, callback);
             initmenu.kill();
@@ -122,7 +122,7 @@ function createMenu(data, callback){
                                                       squares[i].links[a].url], 2, i, normalcategory);
                 }
             }else{
-                // search
+                // searchfdgdfgdf
                 var div = configmenu.tabs[0]
                                     .categories[0]
                                     .appendSquareDiv(squares[i].name);
@@ -155,7 +155,7 @@ function createMenu(data, callback){
                                                      undefined, 0, i, normalcategory);
             }
         }
-        // square/search add button
+        // FUCKASOJHASLDKFJHSKDFDF
         var newDiv = normalcategory.appendSquareDiv();
         var opts = configmenu.tabs[0].categories[0].options;
         opts[opts.length-1].appendTextField(undefined, undefined, "squareHeading",
