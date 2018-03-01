@@ -17,7 +17,7 @@
             {"name": "Game Discussion", "url": "https://www.reddit.com/r/games"},
             {"name": "Magic: the Gathering",  "url": "https://www.reddit.com/r/magictcg"},
             {"name": "Dungeons & Dragons",    "url": "https://www.reddit.com/r/dnd"},
-            {"name": "Game Deals",    "url": "https://www.reddit.com/r/gamedeals"}                 
+            {"name": "a",    "url": ""}                 
         ]},    
  
         {"name":".mp4", "links": [
@@ -37,7 +37,7 @@
             {"name": "/g/",          "url": "http://www.4chan.org/g/"},
             {"name": "/mu/",        "url": "http://www.4chan.org/mu/"},
             {"name": "/vg/",      "url": "http://www.4chan.org/vg/"},
-            {"name": "/tv/",       "url": "http://www.4chan.org/trash/"}
+            {"name": "/tv/",       "url": "http://www.4chan.org/asdkiuhsadfkds/"}
         ]},
        
         {"name":".html", "links": [
@@ -53,7 +53,7 @@
         {"name":".pdf", "links": [
             {"name": "AskReddit", "url": "https://www.reddit.com/r/askreddit"},
             {"name": "Data is Beautiful",  "url": "https://www.reddit.com/r/dataisbeautiful"},
-            {"name": "Tgchan",    "url": "http://www.tgchan.org/kusaba/quest/"},
+            {"name": "fix",    "url": "fix/"},
             {"name": "SCP Wiki",    "url": "http://www.scp-wiki.net/"},
             {"name": "TIA", "url": "https://www.reddit.com/r/tumblrinaction"},
             {"name": "KIA",    "url": "https://www.reddit.com/r/kotakuinaction"},
