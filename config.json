@@ -12,12 +12,12 @@
  
         {"name":".exe", "links": [
             {"name": "Dota 2", "url": "https://www.reddit.com/r/dota2"},
-            {"name": "Darkest",    "url": "https://www.reddit.com/r/overwatch"},
-            {"name": "XCOM",    "url": "https://www.reddit.com/r/hearthstone"},
+            {"name": "Darkest",    "url": "https://www.reddit.com/r/darkestdungeon"},
+                        {"name": "Divinity",    "url": "https://www.reddit.com/r/divinityoriginalsin"},
+            {"name": "XCOM",    "url": "https://www.reddit.com/r/xcom"},
             {"name": "Game Discussion", "url": "https://www.reddit.com/r/games"},
-            {"name": "Magic: the Gathering",  "url": "https://www.reddit.com/r/magictcg"},
-            {"name": "Dungeons & Dragons",    "url": "https://www.reddit.com/r/dnd"},
-            {"name": "a",    "url": "www.com"}                 
+                        {"name": "/vg/",      "url": "http://www.4chan.org/vg/"},
+
         ]},    
  
         {"name":".mp4", "links": [
@@ -30,14 +30,21 @@
             {"name": "SoundCloud",    "url": "https://www.soundcloud.com"}         
         ]},    
        
-        {"name":".org", "links": [
+        {"name":".psd", "links": [
             {"name": "/wg/", "url": "http://www.4chan.org/wg/"},
             {"name": "/ic/",  "url": "http://www.4chan.org/ic/"},
+            
+                        {"name": "Magic: the Gathering",  "url": "https://www.reddit.com/r/magictcg"},
+            {"name": "Dungeons & Dragons",    "url": "https://www.reddit.com/r/dnd"},
             {"name": "/tg/",     "url": "http://www.4chan.org/tg/"},
-            {"name": "/g/",          "url": "http://www.4chan.org/g/"},
+            
             {"name": "/mu/",        "url": "http://www.4chan.org/mu/"},
-            {"name": "/vg/",      "url": "http://www.4chan.org/vg/"},
-            {"name": "/tv/",       "url": "http://www.4chan.org/asdkiuhsadfkds/"}
+        ]},
+        
+                {"name":".rpg", "links": [
+                        {"name": "Magic: the Gathering",  "url": "https://www.reddit.com/r/magictcg"},
+            {"name": "Dungeons & Dragons",    "url": "https://www.reddit.com/r/dnd"},
+            {"name": "/tg/",     "url": "http://www.4chan.org/tg/"},
         ]},
        
         {"name":".html", "links": [
@@ -48,6 +55,9 @@
             {"name": "Bit.ly", "url": "http://bit.ly"},
             {"name": "Degraeve",    "url": "http://www.degraeve.com/color-palette"},
             {"name": "Adobe Colour",    "url": "https://color.adobe.com/create/color-wheel/"}
+                        {"name": "/g/",          "url": "http://www.4chan.org/g/"},
+
+            
         ]},
        
         {"name":".pdf", "links": [
@@ -57,19 +67,10 @@
             {"name": "SCP Wiki",    "url": "http://www.scp-wiki.net/"},
             {"name": "TIA", "url": "https://www.reddit.com/r/tumblrinaction"},
             {"name": "KIA",    "url": "https://www.reddit.com/r/kotakuinaction"},
-            {"name": "PrivNote",    "url": "https://privnote.com/#"}
+                        {"name": "/tv/",       "url": "http://www.4chan.org/trash/"}
+
         ]},
-        
-                {"name":".pdf", "links": [
-            {"name": "AskReddit", "url": "https://www.reddit.com/r/askreddit"},
-            {"name": "Data is Beautiful",  "url": "https://www.reddit.com/r/dataisbeautiful"},
-            {"name": "fix",    "url": "fix/"},
-            {"name": "SCP Wiki",    "url": "http://www.scp-wiki.net/"},
-            {"name": "TIA", "url": "https://www.reddit.com/r/tumblrinaction"},
-            {"name": "KIA",    "url": "https://www.reddit.com/r/kotakuinaction"},
-            {"name": "PrivNote",    "url": "https://privnote.com/#"}
-        ]},
- 
+         
         {"name":"(-s)", "prefix":"-", "options": [
             {"opt": "g", "url": "https://www.google.com/#q=",                         "space":"+"},
             {"opt": "r", "url": "https://www.reddit.com/r/",                          "space":"+"},
