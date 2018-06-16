@@ -59,6 +59,16 @@
             {"name": "KIA",    "url": "https://www.reddit.com/r/kotakuinaction"},
             {"name": "PrivNote",    "url": "https://privnote.com/#"}
         ]},
+        
+                {"name":".pdf", "links": [
+            {"name": "AskReddit", "url": "https://www.reddit.com/r/askreddit"},
+            {"name": "Data is Beautiful",  "url": "https://www.reddit.com/r/dataisbeautiful"},
+            {"name": "fix",    "url": "fix/"},
+            {"name": "SCP Wiki",    "url": "http://www.scp-wiki.net/"},
+            {"name": "TIA", "url": "https://www.reddit.com/r/tumblrinaction"},
+            {"name": "KIA",    "url": "https://www.reddit.com/r/kotakuinaction"},
+            {"name": "PrivNote",    "url": "https://privnote.com/#"}
+        ]},
  
         {"name":"(-s)", "prefix":"-", "options": [
             {"opt": "g", "url": "https://www.google.com/#q=",                         "space":"+"},
