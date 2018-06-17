@@ -16,7 +16,7 @@
                         {"name": "Divinity",    "url": "https://www.reddit.com/r/divinityoriginalsin"},
             {"name": "XCOM",    "url": "https://www.reddit.com/r/xcom"},
             {"name": "Game Discussion", "url": "https://www.reddit.com/r/games"},
-                        {"name": "/vg/",      "url": "http://www.4chan.org/vg/"},
+                        {"name": "/vg/",      "url": "http://www.4chan.org/vg/"}
 
         ]},    
  
@@ -33,15 +33,10 @@
         {"name":".psd", "links": [
             {"name": "/wg/", "url": "http://www.4chan.org/wg/"},
             {"name": "/ic/",  "url": "http://www.4chan.org/ic/"},
-            
-                        {"name": "Magic: the Gathering",  "url": "https://www.reddit.com/r/magictcg"},
-            {"name": "Dungeons & Dragons",    "url": "https://www.reddit.com/r/dnd"},
-            {"name": "/tg/",     "url": "http://www.4chan.org/tg/"},
-            
             {"name": "/mu/",        "url": "http://www.4chan.org/mu/"},
                                     {"name": "Magic: the Gathering",  "url": "https://www.reddit.com/r/magictcg"},
             {"name": "Dungeons & Dragons",    "url": "https://www.reddit.com/r/dnd"},
-            {"name": "/tg/",     "url": "http://www.4chan.org/tg/"},
+            {"name": "/tg/",     "url": "http://www.4chan.org/tg/"}
 
         ]},
         
@@ -52,8 +47,8 @@
             {"name": "SSavr",    "url": "https://www.ssavr.com"},
             {"name": "Bit.ly", "url": "http://bit.ly"},
             {"name": "Degraeve",    "url": "http://www.degraeve.com/color-palette"},
-            {"name": "Adobe Colour",    "url": "https://color.adobe.com/create/color-wheel/"}
-                        {"name": "/g/",          "url": "http://www.4chan.org/g/"},
+            {"name": "Adobe Colour",    "url": "https://color.adobe.com/create/color-wheel/"},
+                        {"name": "/g/",          "url": "http://www.4chan.org/g/"}
 
             
         ]},
