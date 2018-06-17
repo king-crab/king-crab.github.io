@@ -39,14 +39,12 @@
             {"name": "/tg/",     "url": "http://www.4chan.org/tg/"},
             
             {"name": "/mu/",        "url": "http://www.4chan.org/mu/"},
-        ]},
-        
-                {"name":".rpg", "links": [
-                        {"name": "Magic: the Gathering",  "url": "https://www.reddit.com/r/magictcg"},
+                                    {"name": "Magic: the Gathering",  "url": "https://www.reddit.com/r/magictcg"},
             {"name": "Dungeons & Dragons",    "url": "https://www.reddit.com/r/dnd"},
             {"name": "/tg/",     "url": "http://www.4chan.org/tg/"},
+
         ]},
-       
+        
         {"name":".html", "links": [
             {"name": "Rainmeter", "url": "https://www.reddit.com/r/rainmeter"},
             {"name": "Internet is Beautiful",  "url": "https://www.reddit.com/r/internetisbeautiful"},
