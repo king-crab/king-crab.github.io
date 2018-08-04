@@ -13,10 +13,12 @@
         {"name":".exe", "links": [
             {"name": "Dota 2", "url": "https://www.reddit.com/r/dota2"},
             {"name": "Darkest",    "url": "https://www.reddit.com/r/darkestdungeon"},
-                        {"name": "Divinity",    "url": "https://www.reddit.com/r/divinityoriginalsin"},
+            {"name": "Divinity",    "url": "https://www.reddit.com/r/divinityoriginalsin"},
             {"name": "XCOM",    "url": "https://www.reddit.com/r/xcom"},
             {"name": "Game Discussion", "url": "https://www.reddit.com/r/games"},
-                        {"name": "/vg/",      "url": "http://www.4chan.org/vg/"}
+            {"name": "Dungeons & Dragons",    "url": "https://www.reddit.com/r/dnd"},
+            {"name": "Magic: the Gathering",  "url": "https://www.reddit.com/r/magictcg"},
+
 
         ]},    
  
@@ -34,9 +36,12 @@
             {"name": "/wg/", "url": "http://www.4chan.org/wg/"},
             {"name": "/ic/",  "url": "http://www.4chan.org/ic/"},
             {"name": "/mu/",        "url": "http://www.4chan.org/mu/"},
-                                    {"name": "Magic: the Gathering",  "url": "https://www.reddit.com/r/magictcg"},
-            {"name": "Dungeons & Dragons",    "url": "https://www.reddit.com/r/dnd"},
-            {"name": "/tg/",     "url": "http://www.4chan.org/tg/"}
+            {"name": "5e",    "url": "https://www.reddit.com/r/dndnext"},
+            {"name": "/tg/",     "url": "http://www.4chan.org/tg/"},
+            {"name": "/tv/",       "url": "http://www.4chan.org/trash/"},
+            {"name": "/g/",          "url": "http://www.4chan.org/g/"},
+            {"name": "/vg/",      "url": "http://www.4chan.org/vg/"}
+
 
         ]},
         
@@ -48,19 +53,16 @@
             {"name": "Bit.ly", "url": "http://bit.ly"},
             {"name": "Degraeve",    "url": "http://www.degraeve.com/color-palette"},
             {"name": "Adobe Colour",    "url": "https://color.adobe.com/create/color-wheel/"},
-                        {"name": "/g/",          "url": "http://www.4chan.org/g/"}
 
             
         ]},
        
         {"name":".pdf", "links": [
             {"name": "AskReddit", "url": "https://www.reddit.com/r/askreddit"},
-            {"name": "Data is Beautiful",  "url": "https://www.reddit.com/r/dataisbeautiful"},
-            {"name": "fix",    "url": "fix/"},
+            {"name": "tgchan",    "url": "https://tgchan.org/kusaba/quest/"},
             {"name": "SCP Wiki",    "url": "http://www.scp-wiki.net/"},
             {"name": "TIA", "url": "https://www.reddit.com/r/tumblrinaction"},
             {"name": "KIA",    "url": "https://www.reddit.com/r/kotakuinaction"},
-                        {"name": "/tv/",       "url": "http://www.4chan.org/trash/"}
 
         ]},
          
