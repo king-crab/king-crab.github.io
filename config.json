@@ -14,6 +14,7 @@
             {"name": "Dota 2", "url": "https://www.reddit.com/r/dota2"},
             {"name": "Darkest",    "url": "https://www.reddit.com/r/darkestdungeon"},
             {"name": "Divinity",    "url": "https://www.reddit.com/r/divinityoriginalsin"},
+            {"name": "Rainbow 6",    "url": "https://www.reddit.com/r/rainbow6"},
             {"name": "XCOM",    "url": "https://www.reddit.com/r/xcom"},
             {"name": "Game Discussion", "url": "https://www.reddit.com/r/games"},
             {"name": "Dungeons & Dragons",    "url": "https://www.reddit.com/r/dnd"},
@@ -52,7 +53,7 @@
             {"name": "SSavr",    "url": "https://www.ssavr.com"},
             {"name": "Bit.ly", "url": "http://bit.ly"},
             {"name": "Degraeve",    "url": "http://www.degraeve.com/color-palette"},
-            {"name": "Adobe Colour",    "url": "https://color.adobe.com/create/color-wheel/"},
+            {"name": "Adobe Colour",    "url": "https://color.adobe.com/create/color-wheel/"}
 
             
         ]},
@@ -62,7 +63,7 @@
             {"name": "tgchan",    "url": "https://tgchan.org/kusaba/quest/"},
             {"name": "SCP Wiki",    "url": "http://www.scp-wiki.net/"},
             {"name": "TIA", "url": "https://www.reddit.com/r/tumblrinaction"},
-            {"name": "KIA",    "url": "https://www.reddit.com/r/kotakuinaction"},
+            {"name": "KIA",    "url": "https://www.reddit.com/r/kotakuinaction"}
 
         ]},
          
