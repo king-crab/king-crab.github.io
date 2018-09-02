@@ -2,8 +2,7 @@
     "squares": [
         {"name":".com", "links": [
             {"name": "Facebook",  "url": "https://www.facebook.com"},
-            {"name": "Gmail", "url": "https://www.gmail.ca"},
-            {"name": "Evernote",  "url": "https://evernote.com"},
+            {"name": "Gmail", "url": "https://mail.google.com/mail/u/0/#inbox"},
             {"name": "Pirate Bay", "url": "https://thepiratebay.org"},
             {"name": "Triggr",  "url": "https://www.tumblr.com"},
             {"name": "Twitter", "url": "https://www.twitter.com"},
@@ -50,10 +49,7 @@
             {"name": "Rainmeter", "url": "https://www.reddit.com/r/rainmeter"},
             {"name": "Internet is Beautiful",  "url": "https://www.reddit.com/r/internetisbeautiful"},
             {"name": "GitHub",    "url": "https://github.com"},
-            {"name": "SSavr",    "url": "https://www.ssavr.com"},
-            {"name": "Bit.ly", "url": "http://bit.ly"},
-            {"name": "Degraeve",    "url": "http://www.degraeve.com/color-palette"},
-            {"name": "Adobe Colour",    "url": "https://color.adobe.com/create/color-wheel/"}
+            {"name": "SSavr",    "url": "https://www.ssavr.com"}
 
             
         ]},
