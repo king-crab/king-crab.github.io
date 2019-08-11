@@ -1,6 +1,6 @@
 {
     "squares": [
-        {"name":".com", "links": [
+        {"name":"games", "links": [
             {"name": "Facebook",  "url": "https://www.facebook.com"},
             {"name": "Gmail", "url": "https://mail.google.com/mail/u/0/#inbox"},
             {"name": "Pirate Bay", "url": "https://thepiratebay.org"},
@@ -9,7 +9,7 @@
             {"name": "Amazon", "url": "https://www.amazon.ca"}         
         ]},
  
-        {"name":".exe", "links": [
+        {"name":"nice music", "links": [
             {"name": "Dota 2", "url": "https://www.reddit.com/r/dota2"},
             {"name": "Darkest",    "url": "https://www.reddit.com/r/darkestdungeon"},
             {"name": "Divinity",    "url": "https://www.reddit.com/r/divinityoriginalsin"},
@@ -22,7 +22,7 @@
 
         ]},    
  
-        {"name":".mp4", "links": [
+        {"name":"mean music", "links": [
             {"name": "Feedly", "url": "https://feedly.com/i/latest"},
             {"name": "Videos",    "url": "https://www.reddit.com/r/videos"},
             {"name": "Youtube Haiku",    "url": "https://www.reddit.com/r/youtubehaiku"},
@@ -32,7 +32,7 @@
             {"name": "SoundCloud",    "url": "https://www.soundcloud.com"}         
         ]},    
        
-        {"name":".psd", "links": [
+        {"name":"videos", "links": [
             {"name": "/wg/", "url": "http://www.4chan.org/wg/"},
             {"name": "/ic/",  "url": "http://www.4chan.org/ic/"},
             {"name": "/mu/",        "url": "http://www.4chan.org/mu/"},
@@ -45,7 +45,7 @@
 
         ]},
         
-        {"name":".html", "links": [
+        {"name":"gachi", "links": [
             {"name": "Rainmeter", "url": "https://www.reddit.com/r/rainmeter"},
             {"name": "Internet is Beautiful",  "url": "https://www.reddit.com/r/internetisbeautiful"},
             {"name": "GitHub",    "url": "https://github.com"},
@@ -54,7 +54,7 @@
             
         ]},
        
-        {"name":".pdf", "links": [
+        {"name":"art", "links": [
             {"name": "AskReddit", "url": "https://www.reddit.com/r/askreddit"},
             {"name": "tgchan",    "url": "https://tgchan.org/kusaba/quest/"},
             {"name": "SCP Wiki",    "url": "http://www.scp-wiki.net/"},
