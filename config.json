@@ -57,7 +57,9 @@
             {"name": "♂ Howl ♂",    "url": "https://www.youtube.com/watch?v=GpXWF7Yr5uQ"},
             {"name": "♂ The Best is Yet to Come ♂",  "url": "https://www.youtube.com/watch?v=2lKNhSU-YUA"},
             {"name": "♂ Gas Gas Gas ♂",    "url": "https://www.youtube.com/watch?v=SVHj64ltMb8"},
-            {"name": "♂ GCN Yoshi Circuit ♂",  "url": "https://www.youtube.com/watch?v=oBqZ1RSAhZk"}
+            {"name": "♂ GCN Yoshi Circuit ♂",  "url": "https://www.youtube.com/watch?v=oBqZ1RSAhZk"},
+            {"name": "♂ Hit The Floor ♂",  "url": "https://www.youtube.com/watch?v=6Cbjrwa2fQY"}
+            
             
         ]},
        
@@ -70,18 +72,8 @@
             {"name": "Noteself",    "url": "https://noteself.github.io/online/#"}
 
 
-        ]},
-         
-        {"name":"(-s)", "prefix":"-", "options": [
-            {"opt": "g", "url": "https://www.google.com/#q=",                         "space":"+"},
-            {"opt": "r", "url": "https://www.reddit.com/r/",                          "space":"+"},
-            {"opt": "a", "url": "http://www.wolframalpha.com/input/?i=",              "space":"+"},
-            {"opt": "4", "url": "http://4chansearch.com/#gsc.q=",                     "space":"+"},
-            {"opt": "t", "url": "https://translate.google.com/?q=",                 "space":"%20"},
-            {"opt": "p", "url": "https://thepiratebay.org/search/",                 "space":"%20"},
-            {"opt": "w", "url": "https://en.wikipedia.org/w/index.php?search=",       "space":"+"},
-            {"opt": "y", "url": "https://www.youtube.com/results?search_query=",      "space":"+"}
         ]}
+         
     ],
  
  
