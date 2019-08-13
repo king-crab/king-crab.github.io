@@ -33,15 +33,20 @@
         ]},    
        
         {"name":"videos", "links": [
-            {"name": "/wg/", "url": "http://www.4chan.org/wg/"},
-            {"name": "/ic/",  "url": "http://www.4chan.org/ic/"},
-            {"name": "/mu/",        "url": "http://www.4chan.org/mu/"},
-            {"name": "5e",    "url": "https://www.reddit.com/r/dndnext"},
-            {"name": "/tg/",     "url": "http://www.4chan.org/tg/"},
-            {"name": "/tv/",       "url": "http://www.4chan.org/trash/"},
-            {"name": "/g/",          "url": "http://www.4chan.org/g/"},
-            {"name": "/vg/",      "url": "http://www.4chan.org/vg/"}
-
+            {"name": "w",  "url": "https://www.youtube.com/watch?v=OKWVNeDYZmU"},
+            {"name": "w",  "url": "https://www.youtube.com/watch?v=WLQBLBiGUvg"},
+            {"name": "i",  "url": "https://www.youtube.com/watch?v=OgJIPP39pRI"},
+            {"name": "u",  "url": "https://www.youtube.com/watch?v=nvVct6RxQuo"},
+            {"name": "5",  "url": "https://www.youtube.com/watch?v=63XsWJRrWFE"},
+            {"name": "g",  "url": "https://youtu.be/oR794_QBmug"},
+            {"name": "t",  "url": "https://www.youtube.com/watch?v=GAoFDzVhHdw"},
+            {"name": "g",  "url": "https://youtu.be/EdYhuzEoFmA"},
+            {"name": "v",  "url": "https://www.youtube.com/watch?v=xjktqhr_SYc"},
+            {"name": "g",  "url": "https://clips.twitch.tv/TiredInnocentLadiesRlyTho"},
+            {"name": "t",  "url": "https://clips.twitch.tv/FlirtyOilyPancakeMrDestructoid"},
+            {"name": "g",  "url": "https://clips.twitch.tv/ResilientPunchySamosaLitFam"},
+            {"name": "g",  "url": "https://www.youtube.com/watch?v=rixzL5WlS-Y"},
+            {"name": "g",  "url": "https://www.youtube.com/watch?v=Man1oy4Xh_0"}
 
         ]},
         
